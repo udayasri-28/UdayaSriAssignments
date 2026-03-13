@@ -5760,23 +5760,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alekhya\\.nuget\\packages\\": {},
+    "C:\\Users\\udays\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day45Projects\\MVC_demo\\MVC_demo.csproj",
+      "projectUniqueName": "C:\\Users\\udays\\OneDrive\\Desktop\\UdayaSriAssignments\\March11Assignments\\MVC_demo\\MVC_demo.csproj",
       "projectName": "MVC_demo",
-      "projectPath": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day45Projects\\MVC_demo\\MVC_demo.csproj",
-      "packagesPath": "C:\\Users\\Alekhya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day45Projects\\MVC_demo\\obj\\",
+      "projectPath": "C:\\Users\\udays\\OneDrive\\Desktop\\UdayaSriAssignments\\March11Assignments\\MVC_demo\\MVC_demo.csproj",
+      "packagesPath": "C:\\Users\\udays\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\udays\\OneDrive\\Desktop\\UdayaSriAssignments\\March11Assignments\\MVC_demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alekhya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\udays\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5803,7 +5803,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -5833,7 +5833,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

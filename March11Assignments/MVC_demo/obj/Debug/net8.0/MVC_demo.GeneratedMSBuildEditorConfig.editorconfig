@@ -19,57 +19,57 @@ build_property.TargetFrameworkIdentifier = .NETCoreApp
 build_property.TargetFrameworkVersion = v8.0
 build_property.RootNamespace = MVC_demo
 build_property.RootNamespace = MVC_demo
-build_property.ProjectDir = C:\Users\udays\OneDrive\Desktop\Capgemini\Day45Projects\MVC_demo\
+build_property.ProjectDir = C:\Users\udays\OneDrive\Desktop\UdayaSriAssignments\March11Assignments\MVC_demo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\udays\OneDrive\Desktop\Capgemini\Day45Projects\MVC_demo
+build_property.MSBuildProjectDirectory = C:\Users\udays\OneDrive\Desktop\UdayaSriAssignments\March11Assignments\MVC_demo
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/udays/OneDrive/Desktop/Capgemini/Day45Projects/MVC_demo/Views/Home/collectionobjpassing.cshtml]
+[C:/Users/udays/OneDrive/Desktop/UdayaSriAssignments/March11Assignments/MVC_demo/Views/Home/collectionobjpassing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb2xsZWN0aW9ub2JqcGFzc2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/udays/OneDrive/Desktop/Capgemini/Day45Projects/MVC_demo/Views/Home/display.cshtml]
+[C:/Users/udays/OneDrive/Desktop/UdayaSriAssignments/March11Assignments/MVC_demo/Views/Home/display.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkaXNwbGF5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/udays/OneDrive/Desktop/Capgemini/Day45Projects/MVC_demo/Views/Home/Index.cshtml]
+[C:/Users/udays/OneDrive/Desktop/UdayaSriAssignments/March11Assignments/MVC_demo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/udays/OneDrive/Desktop/Capgemini/Day45Projects/MVC_demo/Views/Home/Privacy.cshtml]
+[C:/Users/udays/OneDrive/Desktop/UdayaSriAssignments/March11Assignments/MVC_demo/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/udays/OneDrive/Desktop/Capgemini/Day45Projects/MVC_demo/Views/Home/sampledemo3.cshtml]
+[C:/Users/udays/OneDrive/Desktop/UdayaSriAssignments/March11Assignments/MVC_demo/Views/Home/sampledemo3.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzYW1wbGVkZW1vMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/udays/OneDrive/Desktop/Capgemini/Day45Projects/MVC_demo/Views/Home/singleobjpassing.cshtml]
+[C:/Users/udays/OneDrive/Desktop/UdayaSriAssignments/March11Assignments/MVC_demo/Views/Home/singleobjpassing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzaW5nbGVvYmpwYXNzaW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/udays/OneDrive/Desktop/Capgemini/Day45Projects/MVC_demo/Views/Shared/Error.cshtml]
+[C:/Users/udays/OneDrive/Desktop/UdayaSriAssignments/March11Assignments/MVC_demo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/udays/OneDrive/Desktop/Capgemini/Day45Projects/MVC_demo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/udays/OneDrive/Desktop/UdayaSriAssignments/March11Assignments/MVC_demo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/udays/OneDrive/Desktop/Capgemini/Day45Projects/MVC_demo/Views/_ViewImports.cshtml]
+[C:/Users/udays/OneDrive/Desktop/UdayaSriAssignments/March11Assignments/MVC_demo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/udays/OneDrive/Desktop/Capgemini/Day45Projects/MVC_demo/Views/_ViewStart.cshtml]
+[C:/Users/udays/OneDrive/Desktop/UdayaSriAssignments/March11Assignments/MVC_demo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/udays/OneDrive/Desktop/Capgemini/Day45Projects/MVC_demo/Views/Shared/_Layout.cshtml]
+[C:/Users/udays/OneDrive/Desktop/UdayaSriAssignments/March11Assignments/MVC_demo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vbft1mkxr4
