@@ -1,0 +1,15 @@
+﻿@model IEnumerable<StudentCourseList.Models.StudentCourseVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@foreach (var item in Model)
+{
+    <p>
+        @item.Name | @item.Branch | @item.CourseCount |
+        "@string.Join(", ", item.CourseTitles)"
+    </p>
+}

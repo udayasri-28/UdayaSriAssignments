@@ -1,0 +1,18 @@
+﻿@model StudentCourseList.Models.StudentDetailVM
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+@foreach (var course in Model.Courses)
+{
+    <p>
+        @course.Title | @course.Credits credits | @course.Department | @course.LatestGrade
+    </p>
+}
+
+<br />
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
