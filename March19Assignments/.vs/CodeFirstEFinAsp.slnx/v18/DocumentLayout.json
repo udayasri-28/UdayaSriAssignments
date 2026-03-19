@@ -1,0 +1,473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\models\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\models\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\migrations\\20260319044244_dbsetcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\migrations\\20260319044244_dbsetcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\models\\author1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\models\\author1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\models\\course1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\models\\course1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\views\\transaction\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\views\\transaction\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\views\\transaction\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\views\\transaction\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\views\\transaction\\createcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\views\\transaction\\createcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\migrations\\20260319084622_twotablesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\migrations\\20260319084622_twotablesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\migrations\\20260319084433_2tablesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\migrations\\20260319084433_2tablesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\views\\home\\displayemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\views\\home\\displayemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day51\\day51\\codefirstefinasp\\migrations\\20260319052124_fourtablesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\migrations\\20260319052124_fourtablesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Transaction\\Summary.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Views\\Transaction\\Summary.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Transaction\\Summary.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Views\\Transaction\\Summary.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T10:07:30.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Transaction\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Views\\Transaction\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Transaction\\CreateProduct.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Views\\Transaction\\CreateProduct.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T09:55:53.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:55:22.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Transaction\\CreateCustomer.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Views\\Transaction\\CreateCustomer.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Transaction\\CreateCustomer.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Views\\Transaction\\CreateCustomer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T09:03:16.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260319084622_twotablesadded.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Migrations\\20260319084622_twotablesadded.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Migrations\\20260319084622_twotablesadded.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Migrations\\20260319084622_twotablesadded.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Migrations\\20260319084622_twotablesadded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:46:22.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260319084433_2tablesadded.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Migrations\\20260319084433_2tablesadded.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Migrations\\20260319084433_2tablesadded.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Migrations\\20260319084433_2tablesadded.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Migrations\\20260319084433_2tablesadded.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:44:34.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Product.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:35:04.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Customer.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:32:20.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T06:12:26.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventContext.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\EventContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Models\\EventContext.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\EventContext.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Models\\EventContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:23:54.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T06:31:03.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "displayEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Home\\displayEmp.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Views\\Home\\displayEmp.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Home\\displayEmp.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Views\\Home\\displayEmp.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T06:03:55.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T06:43:54.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T06:51:19.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAcwF4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:59:09.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20260319052124_fourtablesadded.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Migrations\\20260319052124_fourtablesadded.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Migrations\\20260319052124_fourtablesadded.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Migrations\\20260319052124_fourtablesadded.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Migrations\\20260319052124_fourtablesadded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:21:24.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Employee.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:52:04.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\UserDetails.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Models\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\UserDetails.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Models\\UserDetails.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:50:21.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course1.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Course1.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Models\\Course1.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Course1.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Models\\Course1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:50:05.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260319044244_dbsetcreated.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Migrations\\20260319044244_dbsetcreated.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Migrations\\20260319044244_dbsetcreated.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Migrations\\20260319044244_dbsetcreated.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Migrations\\20260319044244_dbsetcreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:42:45.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\appsettings.Development.json",
+              "RelativeToolTip": "CodeFirstEFinAsp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T04:38:19.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Author1.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Author1.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Models\\Author1.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Author1.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Models\\Author1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:49:42.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Program.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Program.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:22:06.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\appsettings.json",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\appsettings.json",
+              "RelativeToolTip": "CodeFirstEFinAsp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T04:19:28.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Course.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:15:59.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Student.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:15:46.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day51\\Day51\\CodeFirstEFinAsp\\Models\\Author.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:15:35.138Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
