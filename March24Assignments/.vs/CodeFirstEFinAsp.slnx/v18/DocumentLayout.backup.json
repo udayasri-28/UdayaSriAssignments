@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\models\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\models\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\repositories\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\repositories\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\codefirstefinasp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\codefirstefinasp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\views\\post\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\views\\post\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\day54projects\\codefirstefinasp\\migrations\\20260320061408_posttableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A92B3BB-9D4A-4344-5554-44DAA03A96F5}|CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj|solutionrelative:codefirstefinasp\\migrations\\20260320061408_posttableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\appsettings.json",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\appsettings.json",
+              "RelativeToolTip": "CodeFirstEFinAsp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-20T06:56:20.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Views\\Post\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Views\\Post\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Views\\Post\\Delete.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Views\\Post\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T06:42:57.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Views\\Post\\Details.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Views\\Post\\Details.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Views\\Post\\Details.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Views\\Post\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T06:42:17.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Views\\Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Views\\Post\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Views\\Post\\Edit.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Views\\Post\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T06:41:41.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Views\\Post\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Views\\Post\\Create.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Views\\Post\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Views\\Post\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T06:41:06.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Views\\Post\\Index.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Views\\Post\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T06:39:19.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Program.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Program.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:36:22.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Controllers\\PostController.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:32:14.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:21:01.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPost.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Repositories\\IPost.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Repositories\\IPost.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Repositories\\IPost.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Repositories\\IPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:18:57.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CodeFirstEFinAsp.csproj",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj",
+              "RelativeToolTip": "CodeFirstEFinAsp\\CodeFirstEFinAsp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T06:18:21.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260320061408_posttableadded.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Migrations\\20260320061408_posttableadded.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Migrations\\20260320061408_posttableadded.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Migrations\\20260320061408_posttableadded.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Migrations\\20260320061408_posttableadded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:14:08.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventContext.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Models\\EventContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Models\\EventContext.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Models\\EventContext.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Models\\EventContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:12:41.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Models\\Post.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:11:50.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFinAsp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Day54Projects\\CodeFirstEFinAsp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CodeFirstEFinAsp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAcwF4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:59:09.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
