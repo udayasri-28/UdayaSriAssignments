@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\sat_assignment\\webapimvc\\webapimvc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\sat_assignment\\webapimvc\\webapimvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\sat_assignment\\webapimvc\\webapimvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\sat_assignment\\webapimvc\\webapimvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\sat_assignment\\webapimvc\\webapimvc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\sat_assignment\\webapimvc\\webapimvc\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\udays\\onedrive\\desktop\\capgemini\\sat_assignment\\webapimvc\\webapimvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\WebAPIMVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\WebAPIMVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebAPIMVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T08:43:11.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\WebAPIMVC\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\WebAPIMVC\\Program.cs",
+              "RelativeToolTip": "WebAPIMVC\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA5wAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T06:15:15.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\WebAPIMVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\WebAPIMVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebAPIMVC\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T06:00:17.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\WebAPIMVC\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\WebAPIMVC\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "WebAPIMVC\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T08:45:52.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\WebAPIMVC\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\WebAPIMVC\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "WebAPIMVC\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T08:51:48.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\WebAPIMVC\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\ProductService.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\WebAPIMVC\\ProductService.cs",
+              "RelativeToolTip": "WebAPIMVC\\ProductService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAzwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T06:14:46.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\WebAPIMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\udays\\OneDrive\\Desktop\\Capgemini\\Sat_Assignment\\WebAPIMVC\\WebAPIMVC\\Models\\Product.cs",
+              "RelativeToolTip": "WebAPIMVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T06:11:35.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
